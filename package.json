@@ -1,0 +1,28 @@
+{
+  "name": "dicomviewer",
+  "version": "0.0.1",
+  "description": "Node.js based DICOM viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://rameshrr@github.com/rameshrr/dicomviewer.git"
+  },
+  "keywords": [
+    "dicom",
+    "dicomviewer",
+    "dicom",
+    "viewer"
+  ],
+  "author": "Ramesh R <ramesh.myoffice@gmail.com> (https://github.com/rameshrr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rameshrr/dicomviewer/issues"
+  },
+  "homepage": "https://github.com/rameshrr/dicomviewer",
+  "dependencies": {
+    "dicomjs": "0.0.7"
+  }
+}
